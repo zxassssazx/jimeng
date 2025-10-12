@@ -110,3 +110,15 @@ https://xwean.com/2049.html 这里有百度网盘的下载链接
 也不知道为什么封装会这么大...
 
 有python 用开发版本 挺不错的~
+
+版本 1
+
+通过网盘分享的文件：即梦 4.0 封装
+
+链接: https://pan.baidu.com/s/1RTU8udP4eCN1WIRSQzhjMQ?pwd=f8f9 提取码: f8f9
+
+版本 2
+
+通过网盘分享的文件：即梦 4.0 散装
+
+链接: https://pan.baidu.com/s/19QqlFa3f_ygXdjJXjjWgYA?pwd=cwmk 提取码: cwmk
