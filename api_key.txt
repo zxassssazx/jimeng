@@ -1,0 +1,6 @@
+# 获取方式：
+# 1. 登录火山引擎控制台(https://console.volcengine.com/)
+# 2. 进入AI服务相关页面
+# 3. 创建或获取API密钥
+# 4. 将密钥粘贴在此文件中，保存即可
+your_api_key_here
