@@ -106,5 +106,7 @@ python main.py
 
 *****
 https://xwean.com/2049.html 这里有百度网盘的下载链接
+
 也不知道为什么封装会这么大...
-有python 用开发板 挺不错的~
+
+有python 用开发版本 挺不错的~
